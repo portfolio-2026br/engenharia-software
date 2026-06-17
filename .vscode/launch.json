@@ -1,0 +1,29 @@
+{
+	"version": "0.2.0",
+	"_comment": "Define como o Visual Studio Code deve lidar com a depuração do projeto.",
+	"configurations": [
+		{
+			"name": "C#: Debug (console)",
+			"type": "dotnet",
+			"request": "launch",
+			"preLaunchTask": "build",
+			"projectPath": "${workspaceFolder}/src/Bootcamp.Exemplo/Bootcamp.Exemplo.csproj"
+		},
+		{
+			"name": ".NET Depurar",
+			"type": "coreclr",
+			"request": "launch",
+			"preLaunchTask": "build",
+			"program": "${workspaceFolder}/src/Bootcamp.Exemplo/bin/Debug/.net8.0/Bootcamp.Exemplo.dll",
+			"args": [],
+			"cwd": "${workspaceFolder}",
+			"console": "internalConsole",
+			"stopAtEntry": false
+		},
+		{
+			"name": ".NET Attach",
+			"type": "coreclr",
+			"request": "attach"
+		}
+	]
+}
