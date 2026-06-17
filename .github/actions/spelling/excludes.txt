@@ -1,0 +1,15 @@
+# Ignore 'Spelling' configuration artefacts
+(?:^|/)\.github/actions/spelling
+
+# Files
+\.gitignore$
+
+# Ignore file named `expect.words.txt`
+^\Qexpect\.words\.txt\E$
+
+# Ignore directories named `tmp`
+(?:^|/)tmp/
+
+# Ignore binary files
+[^/]\.pdf$
+[^/]\.png$
