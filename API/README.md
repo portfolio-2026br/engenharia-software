@@ -18,6 +18,30 @@ Pontos a destacar na minha solução:
 
 ![User Story](images/UserStory%201.png)
 
+### Desenvolvimento Multilinguagem
+
+- Experiência em programação Java:
+
+![Java](images/API%20java.png)
+
+- Experiência em programação .NET:
+
+![Dotnet](images/API%20dotnet.png)
+
+### Projeto e Execução de Testes
+
+- Execução de teste sem falhas:
+
+![Java](images/Teste%20Ok.png)
+
+- Execução de teste com detectção de problemas:
+
+![Dotnet](images/Teste%20Erro.png)
+
+- Execução de teste com uso da GUI:
+
+![Dotnet](images/Teste%20GUI.png)
+
 ### Uso do Swagger e Documentação de API
 
 - API documentada (tags e métodos estão ordenados, documentação está presente e é clara, etc.):
@@ -28,7 +52,7 @@ Pontos a destacar na minha solução:
 
 ![Swagger 1](images/API%202.png)
 
-### Documentação em Markdown
+### Geração de Documentação em Markdown
 
 #### Schemas
 
@@ -49,13 +73,3 @@ Pontos a destacar na minha solução:
 | [...] |                    |           |                |
 | POST  | /api/cliente       | N/A       | Schema Cliente |
 | PUT   | /api/cliente/{id}  | ID        | Schema Cliente |
-
-### Desenvolvimento Multilinguagem
-
-- Experiência em Java:
-
-![Java](images/API%20java.png)
-
-- Experiência em .NET:
-
-![Dotnet](images/API%20dotnet.png)
