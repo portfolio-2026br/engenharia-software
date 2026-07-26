@@ -30,3 +30,9 @@ Pontos a destacar na minha solução:
 - Exemplo de histórico de acessos a um dos repositórios no GitHub:
 
 ![Dashboard](images/Dashboard.png)
+
+- O GitHub armazena o tráfego do repositório por
+  [apenas 14 dias](https://docs.github.com/pt/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository).
+  Contudo, localmente, podemos armazenar todo o histórico de acessos:
+
+![Dashboard](images/07%20dias.png) ![Dashboard](images/30%20dias.png)
